@@ -1,12 +1,15 @@
 - 👋 Hi, I’m Amiras Rabari
-- 👀A highly enthusiastic developer with experience in object oriented software devlopment using Java,J2EE technologies such as Spring,JPA, to name a few
-- Technical Skills: •	Core Java: OOPs, Interface, SOLID Principles, Design Patterns, Exception Handling, Multi-Threading, Generics, Unit Testing 
-•	Frameworks: Spring Framework, Hibernate, Angular, Mockito
-•	Database: JPA, JPQL, SQL, Oracle, ORM
-•	Languages: Java, Python, HTML, CSS, TypeScript, Bash
-•	Data Structures: Primitive Data type, Collection API, Map, Heap, Stack
-•	Tools: GitHub, Eclipse, Maven, VS Code, Jira, Confluence
-•	Others: Rest/Microservices, UNIX, Agile, Networking, ITIL
+- Computer Science Honours student experienced in building systems and full-stack software with C++, Java, and 
+Python. Strong foundation in data structures, databases, systems programming, and software engineering, 
+with additional experience supporting enterprise systems
+TECHNICAL SKILLS 
+o Languages: C++, C, Java, Python, SQL, JavaScript, Bash, HTML/CSS 
+o Backend & Web: Spring Boot, Spring Security, Spring Data, React, Node.js, REST APIs, JWT, Redis 
+o Databases: PostgreSQL, MongoDB, Database Systems 
+o CS Fundamentals: Data Structures & Algorithms, OOD, Concurrency, Design Patterns, Memory Management 
+o Systems: Linux, Operating Systems, Compiler Theory, RISC-V 
+o Cloud & Tools: AWS, Docker, Git, GitHub Copilot, Claude Code, Maven, Postman, IntelliJ, CLion 
+o Security: IAM, OAuth 2.0, Cryptographic Hashing, Rate Limiting 
 - 💞️loves to watch educative videos,learning about geography and wathcing soccer
 - 📫you can reach me at amirasrabari8@gmail.com
 
