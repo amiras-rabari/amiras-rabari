@@ -2,7 +2,7 @@
 - Computer Science Honours student experienced in building systems and full-stack software with C++, Java, and 
 Python. Strong foundation in data structures, databases, systems programming, and software engineering, 
 with additional experience supporting enterprise systems
-TECHNICAL SKILLS 
+-TECHNICAL SKILLS 
 o Languages: C++, C, Java, Python, SQL, JavaScript, Bash, HTML/CSS 
 o Backend & Web: Spring Boot, Spring Security, Spring Data, React, Node.js, REST APIs, JWT, Redis 
 o Databases: PostgreSQL, MongoDB, Database Systems 
