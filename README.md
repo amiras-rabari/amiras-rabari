@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Amiras Rabari
 - Computer Science Honours student experienced in building systems and full-stack software with C++, Java, and Python. Strong foundation in data structures, databases, systems programming, and software engineering, with additional experience supporting enterprise systems
--- TECHNICAL SKILLS
+
+- TECHNICAL SKILLS
 - Languages: C++, C, Java, Python, SQL, JavaScript, Bash, HTML/CSS
 - Backend & Web: Spring Boot, Spring Security, Spring Data, React, Node.js, REST APIs, JWT, Redis
 - Databases: PostgreSQL, MongoDB, Database Systems
