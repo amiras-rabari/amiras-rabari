@@ -8,7 +8,7 @@ Computer Science Honours student focused on **systems engineering**, and **full-
 ---
 
 ### ⚡ Quick Highlights
-* 💻 **Systems & Backend**: Building core database components (slotted-page storage, buffer pools, query optimizers) and scalable Java Spring Boot services.
+* 💻 **Systems & Backend**: Building core system components (slotted-page storage, buffer pools) and scalable Java Spring Boot services.
 * 🛠️ **Tech Stack**: C++, C, Java, Python, SQL, Linux, PostgreSQL, Spring Boot, Redis, Docker, Git.
 * 🎓 **Background**: CS student at Carleton University with experience in IT infrastructure and enterprise support.
 
