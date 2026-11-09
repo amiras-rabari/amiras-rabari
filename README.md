@@ -15,6 +15,6 @@ Computer Science Honours student focused on **systems engineering**, and **full-
 ---
 
 ### 🌐 Connect & More
-* 🔗 **Website**: [your-website-url.com](https://amiras-rabari.github.io/)
+* 🔗 **Website**: (https://amiras-rabari.github.io/)
 * 📧 **Email**: [amirasrabari8@gmail.com](mailto:amirasrabari8@gmail.com)
 * ⚽ **Interests**: educational videos, and soccer.
