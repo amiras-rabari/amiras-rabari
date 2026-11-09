@@ -1,8 +1,8 @@
 # Hi, I'm Amiras Rabari 👋
 
-Computer Science Honours student focused on **systems engineering**, **database internals**, and **full-stack software** (C++, Java, Python).
+Computer Science Honours student focused on **systems engineering**, and **full-stack software** (C++, Java, Python).
 
-🌐 **[Explore my Portfolio & Tech Blog](https://your-website-url.com)**  
+🌐 **[Explore my Portfolio & Tech Blog](https://amiras-rabari.github.io/)**  
 *Visit my website to read my latest write-ups, view project demos, and learn more about my work.*
 
 ---
@@ -15,6 +15,6 @@ Computer Science Honours student focused on **systems engineering**, **database 
 ---
 
 ### 🌐 Connect & More
-* 🔗 **Website**: [your-website-url.com](https://your-website-url.com)
+* 🔗 **Website**: [your-website-url.com](https://amiras-rabari.github.io/)
 * 📧 **Email**: [amirasrabari8@gmail.com](mailto:amirasrabari8@gmail.com)
-* ⚽ **Interests**: Geography, educational video essays, and soccer.
+* ⚽ **Interests**: educational videos, and soccer.
